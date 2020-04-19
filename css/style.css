@@ -1,0 +1,29 @@
+
+ body{
+    background-color:white;
+   
+   
+ }
+
+   .services{
+   color:blue;
+ }
+ .about{
+    color:greenyellow;
+ }
+ .welcome{
+    color: indigo;
+    
+ }
+ .what{
+color: lightcoral;
+ }
+ .gallery {
+   margin: 5px;
+   border: 1px solid #ccc;
+   float: right;
+   width: 180px;
+   <a target="_blank" href="welcome.jpg">
+   
+ }
+ 
